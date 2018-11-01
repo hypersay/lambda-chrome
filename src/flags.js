@@ -8,7 +8,7 @@ export default [
 
   // @TODO: review if these are still relevant:
   '--disable-gpu',
-  '--single-process', // Currently wont work without this :-(
+  // '--single-process', // Currently wont work without this :-(
 
   // https://groups.google.com/a/chromium.org/d/msg/headless-dev/qqbZVZ2IwEw/Y95wJUh2AAAJ
   '--no-zygote', // helps avoid zombies
